@@ -1,4 +1,4 @@
-package com.thinkenterprise.graphqlio.server.samples.resolvers;
+package com.graphqlio.server.samples.resolvers;
 
 import org.springframework.stereotype.Component;
 
